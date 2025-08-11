@@ -76,9 +76,6 @@
 /* Describes an action on some of the Onboarding screen, including the wallpaper onboarding screen. This string will be on a button so user can skip that onboarding page. */
 "Onboarding.LaterAction.v115" = "Hopp over";
 
-/* String used to describe the option to save the user setting and continue to the next onboarding in Firefox Onboarding screens. */
-"Onboarding.Modern.Customization.Theme.Continue.Action.v123" = "Fortsett";
-
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the bottom of the screen. */
 "Onboarding.Modern.Customization.Toolbar.Bottom.Action.v140" = "Bunn";
 
@@ -113,7 +110,7 @@
 "Onboarding.Modern.TermsOfService.PrivacyNoticeAgreement.v140" = "%1$@ bryr seg om personvernet ditt. Les mer i vår %2$@";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
-"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "Personvernbestemmelser.";
+"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "Personvernerklæring.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.Modern.TermsOfService.PrivacyPreferences.LearnMore.v140" = "Les mer";
@@ -204,7 +201,7 @@
 "Onboarding.TermsOfService.PrivacyNoticeAgreement.v135" = "%1$@ bryr seg om personvernet ditt. Les mer i vår %2$@";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
-"Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Personvernbestemmelser.";
+"Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Personvernerklæring.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v135" = "Les mer.";
@@ -234,7 +231,7 @@
 "Onboarding.TermsOfService.TermsOfServiceAgreement.v135" = "Ved å fortsette godtar du %@";
 
 /* Title for the Terms of Service button link, in the Terms of Service screen for redirecting the user to the Terms of Service page. %@ is the app name (e.g. Firefox). */
-"Onboarding.TermsOfService.TermsOfServiceLink.v135" = "%@ tjenestevilkår.";
+"Onboarding.TermsOfService.TermsOfServiceLink.v135" = "%@ bruksvilkår.";
 
 /* Title for the Terms of Service screen in the onboarding process. %@ is the app name (e.g. Firefox). */
 "Onboarding.TermsOfService.Title.v135" = "Velkommen til %@";

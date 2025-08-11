@@ -173,7 +173,7 @@
 "Settings.Notifications.TurnOnNotificationsTitle.v112" = "Slå på varsler";
 
 /* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
-"Settings.PrivacyNotice.Title.v137" = "Personvernbestemmelser";
+"Settings.PrivacyNotice.Title.v137" = "Personvernerklæring";
 
 /* In the settings menu, in the General section, this is the title for the option that allows user to disable the autohide feature of the tab and address bar. */
 "Settings.ScrollToHideTabAndAddressBar.Title.v138" = "Rull til Skjul fane og adressefelt";
@@ -263,5 +263,5 @@
 "Settings.TechnicalData.Title.v136" = "Send tekniske data og interaksjonsdata";
 
 /* Terms of Use settings section title */
-"Settings.TermsOfUse.Title.v137" = "Vilkår for bruk";
+"Settings.TermsOfUse.Title.v137" = "Bruksvilkår";
 

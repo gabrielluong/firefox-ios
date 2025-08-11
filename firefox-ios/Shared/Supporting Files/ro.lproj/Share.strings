@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "Nu mai ai alte dispozitive conectate la acest cont disponibile pentru sincronizare.";
+
+/* This message appears when a user tries to use 'Send Link to Device' action while not logged in */
+"SendTo.NotSignedIn.Title.v119" = "Nu ești autentificat(ă) în cont.";
+
