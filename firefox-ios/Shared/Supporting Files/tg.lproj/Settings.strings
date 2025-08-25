@@ -170,7 +170,7 @@
 "Settings.Notifications.TurnOnNotificationsMessage.v112" = "Барои фаъол кардани огоҳномаҳо дар %@ ба Танзимоти дастгоҳи худ гузаред";
 
 /* This is the title informing the user that they need to turn on notifications in iOS Settings. */
-"Settings.Notifications.TurnOnNotificationsTitle.v112" = "Хомӯш кардани огоҳномаҳо";
+"Settings.Notifications.TurnOnNotificationsTitle.v112" = "Фаъол кардани огоҳномаҳо";
 
 /* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
 "Settings.PrivacyNotice.Title.v137" = "Огоҳномаи махфият";
