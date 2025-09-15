@@ -76,9 +76,6 @@
 /* Describes an action on some of the Onboarding screen, including the wallpaper onboarding screen. This string will be on a button so user can skip that onboarding page. */
 "Onboarding.LaterAction.v115" = "Hopp over";
 
-/* String used to describe the option to save the user setting and continue to the next onboarding in Firefox Onboarding screens. */
-"Onboarding.Modern.Customization.Theme.Continue.Action.v123" = "Hald fram";
-
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the bottom of the screen. */
 "Onboarding.Modern.Customization.Toolbar.Bottom.Action.v140" = "Botn";
 
@@ -113,7 +110,7 @@
 "Onboarding.Modern.TermsOfService.PrivacyNoticeAgreement.v140" = "%1$@ bryr seg om personvernet ditt. Les meir i %2$@a vår";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
-"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "Personvernerklæring.";
+"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "Personvernfråsegn.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.Modern.TermsOfService.PrivacyPreferences.LearnMore.v140" = "Les meir";
@@ -204,7 +201,7 @@
 "Onboarding.TermsOfService.PrivacyNoticeAgreement.v135" = "%1$@ bryr seg om personvernet ditt. Les meir i %2$@a vår";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
-"Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Personvernerklæring.";
+"Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Personvernfråsegn.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v135" = "Les meir.";
