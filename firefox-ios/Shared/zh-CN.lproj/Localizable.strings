@@ -80,7 +80,7 @@
 "Back" = "后退";
 
 /* Block pop-up windows setting */
-"Block Pop-up Windows" = "阻止弹出窗口";
+"Block Pop-up Windows" = "阻止弹出式窗口";
 
 /* The label for the Title field when editing a bookmark */
 "Bookmark.DetailFieldTitle.Label" = "标题";
@@ -346,6 +346,9 @@
 /* When a user taps and holds on an item from the Recently Visited section, this label will appear indicating the option to remove that item. */
 "FirefoxHome.RecentHistory.Remove" = "移除";
 
+/* On each Story on the Firefox Homepage, this label appears and indicates the number of minutes to read an article. Minutes should be abbreviated due to space constraints. %d represents the number of minutes */
+"FirefoxHome.Stories.Minutes.v140" = "%d 分钟";
+
 /* Label showing how many pages there is in a search group. %d represents a number */
 "FirefoxHomepage.Common.PagesCount.v112" = "页数：%d";
 
@@ -369,6 +372,9 @@
 
 /* This string will show under a shortcuts tile on the firefox home page, indicating that the tile is a sponsored tile. Space is limited, please keep as short as possible. */
 "FirefoxHomepage.Shortcuts.Sponsored.v100" = "赞助推广";
+
+/* This string will show under the description on pocket story, indicating that the story is sponsored. */
+"FirefoxHomepage.Stories.Sponsored.v140" = "赞助推广";
 
 /* Accessibility Label for the tab toolbar Forward button */
 "Forward" = "前进";
@@ -1154,7 +1160,7 @@
 "Settings.Appearance.WebsiteAppearance.SectionHeader.v137" = "网站外观";
 
 /* Under Website Appearance section in Appearance menu, this is the text under the toggle describing the dark mode feature. */
-"Settings.Appearance.WebsiteDarkMode.Description.v137" = "为网站提供深色外观。部分网站显示效果可能异常。";
+"Settings.Appearance.WebsiteDarkMode.Description.v137" = "为网站提供深色外观。可能造成部分网站显示效果异常。";
 
 /* Under Website Appearance section in Appearance menu, this is the title of the toggle to switch dark theme on/off. */
 "Settings.Appearance.WebsiteDarkModeToggle.Title.v137" = "网站深色模式";
@@ -1682,7 +1688,7 @@
 "TabTray.OpenNewTab.KeyCodeTitle" = "打开新标签页";
 
 /* The title on the button to look at private tabs. */
-"TabTray.SegmentedControlTitles.PrivateTabs" = "隐私";
+"TabTray.SegmentedControlTitles.PrivateTabs" = "隐私浏览";
 
 /* The title on the button to look at synced tabs. */
 "TabTray.SegmentedControlTitles.SyncedTabs" = "已同步";
