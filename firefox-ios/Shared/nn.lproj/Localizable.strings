@@ -74,7 +74,7 @@
 "Amazon" = "Amazon";
 
 /* Authentication prompt title */
-"Authentication required" = "Godkjenning er påkravd";
+"Authentication required" = "Autentisering er påkravd";
 
 /* Accessibility label for the Back button in the tab toolbar. */
 "Back" = "Tilbake";
@@ -218,7 +218,7 @@
 "Could not load page." = "Klarte ikkje å laste sida.";
 
 /* Description for the new ETP mode i.e. standard vs strict */
-"CoverSheet.v24.ETP.Description" = "Innebygd utvida sporingsvern hindrar reklame i å følgje deg rundt på nettet. Slå på Streng for å blokkere endå fleire sporarar, reklamer og sprettopp.";
+"CoverSheet.v24.ETP.Description" = "Innebygd utvida sporingsvern hindrar reklame i å følgje deg rundt på nettet. Slå på Streng for å blokkere endå fleire sporarar, reklamar og sprettopp. ";
 
 /* Text for the new ETP settings button */
 "CoverSheet.v24.ETP.Settings.Button" = "Gå til Innstillingar";
@@ -346,6 +346,9 @@
 /* When a user taps and holds on an item from the Recently Visited section, this label will appear indicating the option to remove that item. */
 "FirefoxHome.RecentHistory.Remove" = "Fjern";
 
+/* On each Story on the Firefox Homepage, this label appears and indicates the number of minutes to read an article. Minutes should be abbreviated due to space constraints. %d represents the number of minutes */
+"FirefoxHome.Stories.Minutes.v140" = "min: %d";
+
 /* Label showing how many pages there is in a search group. %d represents a number */
 "FirefoxHomepage.Common.PagesCount.v112" = "Sider: %d";
 
@@ -369,6 +372,9 @@
 
 /* This string will show under a shortcuts tile on the firefox home page, indicating that the tile is a sponsored tile. Space is limited, please keep as short as possible. */
 "FirefoxHomepage.Shortcuts.Sponsored.v100" = "Sponsa";
+
+/* This string will show under the description on pocket story, indicating that the story is sponsored. */
+"FirefoxHomepage.Stories.Sponsored.v140" = "Sponsa";
 
 /* Accessibility Label for the tab toolbar Forward button */
 "Forward" = "Fram";
@@ -923,7 +929,7 @@
 "Quick-Search Engines" = "Hurtigsøkjemotorar";
 
 /* A label indicating the action that a user can rate the Firefox app in the App store. */
-"Ratings.Settings.RateOnAppStore" = "Skriv ei vurdering App Store";
+"Ratings.Settings.RateOnAppStore" = "Vurder på App Store";
 
 /* Accessibility label for read article in reading list. It's a past participle - functions as an adjective. */
 "read" = "lesen";
@@ -1550,7 +1556,7 @@
 "Settings.TrackingProtection.ProtectionLevelStandard.Description" = "Tillèt noko sporing frå reklamar slik at nettstadar fungerer rett.";
 
 /* Description for strict level tracker protection */
-"Settings.TrackingProtection.ProtectionLevelStrict.Description" = "Blokkerer fleire sporerings-mekanismar, reklamer og sprettopp. Sider vert lasta raskere, men nokre funksjonar fungerer kanskje ikkje.";
+"Settings.TrackingProtection.ProtectionLevelStrict.Description" = "Blokkerer fleire sporerings-mekanismar, reklamar og sprettopp. Sider vert lasta raskere, men nokre funksjonar fungerer kanskje ikkje.";
 
 /* Title for tracking protection options section where level can be selected. */
 "Settings.TrackingProtection.ProtectionLevelTitle" = "Vernenivå";
