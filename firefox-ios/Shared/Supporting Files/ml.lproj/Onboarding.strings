@@ -32,13 +32,13 @@
 "Onboarding.Customization.Theme.Continue.Action.v123" = "കരുതിവച്ചുിട്ടു് തുടരുക";
 
 /* On the theme customization onboarding card, the string used to describe the option to set the theme to dark theme from the available choices. */
-"Onboarding.Customization.Theme.Dark.Action.v123" = "ഇരുണ്ടത്";
+"Onboarding.Customization.Theme.Dark.Action.v123" = "ഇരുളിമ";
 
 /* String used to describe the description label of the theme customization onboarding page in our Onboarding screens. */
 "Onboarding.Customization.Theme.Description.v123" = "മികച്ച വെളിച്ചത്തിൽ വെബ് കാണുക.";
 
 /* On the theme customization onboarding card, the string used to describe the option to set the theme to light theme from the available choices. */
-"Onboarding.Customization.Theme.Light.Action.v123" = "വെളിച്ച അലങ്കാരം";
+"Onboarding.Customization.Theme.Light.Action.v123" = "തെളിച്ചം";
 
 /* String used to describe the option to skip the theme customization in Firefox Onboarding screens. */
 "Onboarding.Customization.Theme.Skip.Action.v123" = "ഒഴിവാക്കുക";
@@ -67,14 +67,14 @@
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the top of the screen. */
 "Onboarding.Customization.Toolbar.Top.Action.v123" = "മേൽഭാഗം";
 
+/* String used to describes what Firefox is on the first onboarding page in our Onboarding screens. Indie means small independant. */
+"Onboarding.IntroDescriptionPart1.v114" = "ഇൻഡി. ലാഭേച്ഛയില്ലാത്തത്. നല്ലതിനു്.";
+
 /* String used to describes what Firefox is on the first onboarding page in our Onboarding screens. */
 "Onboarding.IntroDescriptionPart2.v114" = "എല്ലാവൎക്കു് വേണ്ടിയൊരു മെച്ചപ്പെട്ട ഗോളാന്തരവല എത്തിപ്പിക്കാനുള്ള ചുമതല നമ്മൾ ഏറ്റെടുക്കുന്നു.";
 
 /* Describes an action on some of the Onboarding screen, including the wallpaper onboarding screen. This string will be on a button so user can skip that onboarding page. */
 "Onboarding.LaterAction.v115" = "ഒഴിവാക്കുക";
-
-/* String used to describe the option to save the user setting and continue to the next onboarding in Firefox Onboarding screens. */
-"Onboarding.Modern.Customization.Theme.Continue.Action.v123" = "തുടരുക";
 
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the bottom of the screen. */
 "Onboarding.Modern.Customization.Toolbar.Bottom.Action.v140" = "കീഴ്ഭാഗം";
@@ -86,7 +86,7 @@
 "Onboarding.Modern.Customization.Toolbar.Top.Action.v140" = "മേൽഭാഗം";
 
 /* String used to describe Firefox on the Sync onboarding page for the current version of our onboarding screens. */
-"Onboarding.Modern.Sync.Description.v140" = "ഏതെങ്കിലും ഉപകരണത്തിൽ താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാൾവഴിയും രഹസ്യവാക്കുകളും നേടുക.";
+"Onboarding.Modern.Sync.Description.v140" = "ഏതെങ്കിലും ഉപകരണത്തിൽ താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാൾവഴിയും ഒളിവാക്കുകളും നേടുക.";
 
 /* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
 "Onboarding.Modern.Sync.SignIn.Action.v140" = "സമന്വയിപ്പിക്കാൻ തുടങ്ങുക";
@@ -127,6 +127,10 @@
 /* Title for the Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. Data like crash reports or technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Onboarding.Modern.TermsOfService.PrivacyPreferences.Title.v140" = "%@-നു് മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ തുണയ്ക്കുക";
 
+/* Subtitle for the Terms of Service screen in the onboarding process. The '
+' symbols denote empty lines separating the first link parameter from the rest of the text. */
+"Onboarding.Modern.TermsOfService.Subtitle.v140" = "മിന്നൽവിരവോടു വെബ്ബിടങ്ങൾ ലഭ്യമാക്കുക\nതാനെ പിന്തുടൎച്ച പരിരക്ഷണം\nഎല്ലാ ഉപകരണങ്ങളിലും സമന്വയിപ്പിക്കുക";
+
 /* Agreement text for Terms of Service in the Terms of Service screen. %@ is the Terms of Service link button that redirect the user to the Terms of Service page. */
 "Onboarding.Modern.TermsOfService.TermsOfServiceAgreement.v140" = "തുടരുന്നതിലൂടെ, താങ്ങൾ %@ അംഗീകരിക്കുന്നു";
 
@@ -161,7 +165,7 @@
 "Onboarding.Notification.TurnOnNotifications.Action.v114" = "അറിയിപ്പുകൾ തുടങ്ങി വയ്ക്കുക";
 
 /* String used to describes the description of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. %@ is the app name (e.g. Firefox). */
-"Onboarding.Sync.Description.v123" = "താങ്ങൾ സമന്വയിപ്പിച്ചിരിക്കുമ്പോഴു് %@ താങ്ങളുടെ രഹസ്യവാക്കുകളും അടയാളക്കുറിപ്പുകളും മറ്റും രൂപമാറ്റി വയ്ക്കാരുണ്ടു്. ";
+"Onboarding.Sync.Description.v123" = "താങ്ങൾ സമന്വയിപ്പിച്ചിരിക്കുമ്പോഴു് %@ താങ്ങളുടെ ഒളിവാക്കുകളും അടയാളക്കുറിപ്പുകളും മറ്റും രൂപമാറ്റി വയ്ക്കാരുണ്ടു്. ";
 
 /* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
 "Onboarding.Sync.SignIn.Action.v114" = "പ്രവേശിക്കുക";
@@ -171,12 +175,6 @@
 
 /* String used to describes the title of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. */
 "Onboarding.Sync.Title.v120" = "താങ്ങൾ ഉപകരണങ്ങൾക്കിടയിൽ ചാടുമ്പോഴു്  രൂപമാറ്റം വരുത്തിയിരിക്കുക";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v135" = "സമ്മതിച്ച് തുടരുക";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v136" = "സമ്മതിച്ച് തുടരുക";
 
 /* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
 "Onboarding.TermsOfService.AgreementButtonTitle.v140" = "തുടരുക";
@@ -192,9 +190,6 @@
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
 "Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "സ്വകാര്യതാ അറിയിപ്പ്.";
-
-/* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
-"Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v135" = "കൂടുതൽ അറിയുക.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v136" = "കൂടുതല്‍ അറിയുക";
@@ -216,9 +211,6 @@
 
 /* Agreement text for Terms of Service in the Terms of Service screen. %@ is the Terms of Service link button that redirect the user to the Terms of Service page. */
 "Onboarding.TermsOfService.TermsOfServiceAgreement.v135" = "തുടരുന്നതിലൂടെ, താങ്ങൾ %@ അംഗീകരിക്കുന്നു";
-
-/* Title for the Terms of Service button link, in the Terms of Service screen for redirecting the user to the Terms of Service page. %@ is the app name (e.g. Firefox). */
-"Onboarding.TermsOfService.TermsOfServiceLink.v135" = "%@ സേവന നിബന്ധനകള്‍.";
 
 /* Title for the Terms of Service screen in the onboarding process. %@ is the app name (e.g. Firefox). */
 "Onboarding.TermsOfService.Title.v135" = "%@ ലേക്ക് സ്വാഗതം";

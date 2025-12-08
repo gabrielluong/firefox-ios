@@ -346,6 +346,9 @@
 /* When a user taps and holds on an item from the Recently Visited section, this label will appear indicating the option to remove that item. */
 "FirefoxHome.RecentHistory.Remove" = "Rimuovi";
 
+/* On each Story on the Firefox Homepage, this label appears and indicates the number of minutes to read an article. Minutes should be abbreviated due to space constraints. %d represents the number of minutes */
+"FirefoxHome.Stories.Minutes.v140" = "%d min";
+
 /* Label showing how many pages there is in a search group. %d represents a number */
 "FirefoxHomepage.Common.PagesCount.v112" = "Pagine: %d";
 
@@ -369,6 +372,9 @@
 
 /* This string will show under a shortcuts tile on the firefox home page, indicating that the tile is a sponsored tile. Space is limited, please keep as short as possible. */
 "FirefoxHomepage.Shortcuts.Sponsored.v100" = "Sponsorizzato";
+
+/* This string will show under the description on pocket story, indicating that the story is sponsored. */
+"FirefoxHomepage.Stories.Sponsored.v140" = "Sponsorizzata";
 
 /* Accessibility Label for the tab toolbar Forward button */
 "Forward" = "Avanti";
@@ -515,7 +521,7 @@
 "Hotkeys.SelectLocationBar.DiscoveryTitle" = "Seleziona barra degli indirizzi";
 
 /* A label indicating the keyboard shortcut of switching to a subsequent tab. This label is displayed inside the Discoverability overlay when a user presses the Command key. The Discoverability overlay and shortcut become available only when a user has connected a hardware keyboard to an iPad. See https://drive.google.com/file/d/1gH3tbvDceg7yG5N67NIHS-AXgDgCzBHN/view?usp=sharing for more details. */
-"Hotkeys.ShowNextTab.DiscoveryTitle" = "Visualizza nuova scheda";
+"Hotkeys.ShowNextTab.DiscoveryTitle" = "Mostra scheda successiva";
 
 /* A label indicating the keyboard shortcut of switching to a tab immediately preceding to the currently selected tab. This label is displayed inside the Discoverability overlay when a user presses the Command key. The Discoverability overlay and shortcut become available only when a user has connected a hardware keyboard to an iPad. See https://drive.google.com/file/d/1gH3tbvDceg7yG5N67NIHS-AXgDgCzBHN/view?usp=sharing for more details. */
 "Hotkeys.ShowPreviousTab.DiscoveryTitle" = "Visualizza scheda precedente";
@@ -1619,7 +1625,7 @@
 "Show Search Suggestions" = "Visualizza suggerimenti";
 
 /* Accessibility label for the tabs button in the (top) tab toolbar */
-"Show Tabs" = "Visualizza schede";
+"Show Tabs" = "Mostra schede";
 
 /* Show the on-boarding screen again from the settings */
 "Show Tour" = "Mostra schermate introduttive";
