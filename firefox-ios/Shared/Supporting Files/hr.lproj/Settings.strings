@@ -32,7 +32,7 @@
 "CreditCard.Settings.EmptyListTitle.v122" = "Spremi kreditne kartice na %@";
 
 /* Accessibility label for a credit card list item in autofill settings screen. %1$@ is the credit card issuer (e.g. Visa), %2$@ is the name of the credit card holder, %3$@ is the last 4 digits of the credit card, %4$@ is the card's expiration date. */
-"CreditCard.Settings.ListItemA11y.v118" = "%1$@, izdano za %2$@, završava %3$@, isteče %4$@";
+"CreditCard.Settings.ListItemA11y.v118" = "%1$@, izdano za %2$@, završava %3$@, ističe %4$@";
 
 /* When a user is in the process or has finished making a purchase with a card not saved in Firefox's list of stored cards, we ask the user if they would like to save this card for future purchases. This string indicates to users that they can deny Firefox from remembering the card that is being used. */
 "CreditCard.Settings.NotNow.v122" = "Ne sada";
@@ -119,22 +119,13 @@
 "Settings.Browsing.Title.v137" = "Pregledavanje";
 
 /* Title for a link that explains how Mozilla send crash reports. */
-"Settings.CrashReports.Link.v135" = "Saznaj više.";
-
-/* Title for a link that explains how Mozilla send crash reports. */
 "Settings.CrashReports.Link.v136" = "Saznaj više";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
-"Settings.CrashReports.Message.v135" = "Izvještaji o prekidima programa nam omogućuju dijagnosticirati i popraviti probleme s preglednikom.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "Ovo nam pomaže dijagnosticirati i popraviti probleme s preglednikom.";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Title.v135" = "Automatski šalji izvještaje o prekidu programa";
-
-/* Title for a link that explains how Mozilla send daily usage ping. */
-"Settings.DailyUsagePing.Link.v135" = "Saznaj više.";
 
 /* Title for a link that explains how Mozilla send daily usage ping. */
 "Settings.DailyUsagePing.Link.v136" = "Saznaj više";
@@ -245,19 +236,10 @@
 "Settings.Studies.Title.v136" = "Instaliraj i pokreni istraživanja";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
-"Settings.TechnicalData.Link.v135" = "Saznaj više.";
-
-/* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "Saznaj više";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %1$@ is the company name (e.g. Mozilla), %2$@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v135" = "%1$@ nastoji sakupljati samo onoliko koliko nam treba da osiguramo i poboljšamo %2$@ za sve.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Settings.TechnicalData.Message.v136" = "Podaci o tvom uređaju, hardverskoj konfiguraciji i načinu korištenja nam pomažu poboljšati %@ funkcije, performansu i stabilnost.";
-
-/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
-"Settings.TechnicalData.Title.v135" = "Tehnički podaci i podaci o interakciji";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Šalji tehničke podatke i podatke o interakciji";
