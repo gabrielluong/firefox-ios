@@ -67,11 +67,20 @@
 /* Default section header title under page zoom settings. Indicates the default value for all websites */
 "Settings.Appearance.Zoom.Default.Title.v140" = "Par défaut";
 
+/* Button to reset specific zoom site levels back to default */
+"Settings.Appearance.Zoom.Reset.Button.v140" = "Réinitialiser les paramètres du site";
+
 /* Page zoom section header title in Appearance settings */
 "Settings.Appearance.Zoom.SectionHeader.v140" = "Paramètres de zoom";
 
 /* Specific site settings section footer title under page zoom settings. Explain how to add elements to the list */
 "Settings.Appearance.Zoom.SpecificSiteZoom.Footer.v140" = "Pour compléter cette liste, visitez un site et ajustez le niveau de zoom de la page à partir du menu";
+
+/* Specific site settings section header title under page zoom settings. List all websites with custom zoom level */
+"Settings.Appearance.Zoom.SpecificSiteZoom.Title.v140" = "Paramètres de sites spécifiques";
+
+/* Page zoom settings title in Appearance settings */
+"Settings.Appearance.Zoom.Title.v140" = "Zoom sur la page";
 
 /* Zoom level title under page zoom settings to select the default zoom level for all websites */
 "Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "Niveau de zoom";
@@ -110,22 +119,13 @@
 "Settings.Browsing.Title.v137" = "Navigation";
 
 /* Title for a link that explains how Mozilla send crash reports. */
-"Settings.CrashReports.Link.v135" = "En savoir plus.";
-
-/* Title for a link that explains how Mozilla send crash reports. */
 "Settings.CrashReports.Link.v136" = "En savoir plus";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
-"Settings.CrashReports.Message.v135" = "Les rapports de plantage nous permettent de diagnostiquer et de corriger des problèmes avec le navigateur.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "Cela nous permet de diagnostiquer et de corriger des problèmes avec le navigateur.";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Title.v135" = "Envoyer automatiquement les rapports de plantage";
-
-/* Title for a link that explains how Mozilla send daily usage ping. */
-"Settings.DailyUsagePing.Link.v135" = "En savoir plus.";
 
 /* Title for a link that explains how Mozilla send daily usage ping. */
 "Settings.DailyUsagePing.Link.v136" = "En savoir plus";
@@ -236,19 +236,10 @@
 "Settings.Studies.Title.v136" = "Installer et lancer des études";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
-"Settings.TechnicalData.Link.v135" = "En savoir plus.";
-
-/* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "En savoir plus";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %1$@ is the company name (e.g. Mozilla), %2$@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v135" = "%1$@ veille à collecter uniquement les données nécessaires afin d’offrir et d’améliorer %2$@ pour tout le monde.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Settings.TechnicalData.Message.v136" = "Les données concernant votre appareil, la configuration matérielle et votre utilisation nous aident à améliorer les fonctionnalités, les performances et la stabilité de %@.";
-
-/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
-"Settings.TechnicalData.Title.v135" = "Données techniques et d’interaction";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Envoyer des données techniques et d’interaction";
