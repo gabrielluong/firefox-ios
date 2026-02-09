@@ -1,0 +1,63 @@
+/* This label is used for a button in the address list screen allowing users to manage their saved addresses. It's meant to direct users to where they can add, remove, or edit their saved addresses. */
+"Addresses.ManageAddressesButton.v130" = "គ្រប់គ្រងអាសយដ្ឋាន";
+
+/* Accessibility label for an address list item in autofill settings screen. The %@ parameter is the address of the user that will read the name, street, city, state, postal code if available. */
+"Addresses.Settings.ListItemA11y.v130" = "អាសយដ្ឋានសម្រាប់ %@";
+
+/* On the autofill settings screen, a label for the section that displays the list of saved addresses. This label adds additional context for users regarding the toggle switch that allows saving and autofilling of addresses for webpages. */
+"Addresses.Settings.SavedAddressesSectionTitle.v124" = "អាសយដ្ឋានដែលបានរក្សាទុក";
+
+/* Title text for the content unavailable view informing users they can create or add new addresses. %@ is the name of the app. */
+"Addresses.Settings.SaveToFirefox.Title.v130" = "រក្សាទុកអាសយដ្ឋានទៅ %@";
+
+/* Settings section title for the old Firefox account */
+"FxA.FirefoxAccount.v119" = "គណនី";
+
+/* This is the title for Links customization under the Browsing settings section. */
+"Settings.Browsing.Links.v137" = "តំណភ្ជាប់";
+
+/* This is the title for Media customization under the Browsing settings section. */
+"Settings.Browsing.Media.v137" = "មេឌៀ";
+
+/* This is the title for Tabs customization under the Browsing settings section. */
+"Settings.Browsing.Tabs.v137" = "ផ្ទាំង";
+
+/* In the settings menu, in the General section, this is the title for Browsing customization section. */
+"Settings.Browsing.Title.v137" = "ការរុករក";
+
+/* Title for a link that explains how Mozilla send crash reports. */
+"Settings.CrashReports.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* Title for a link that explains how Mozilla send daily usage ping. */
+"Settings.DailyUsagePing.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* Title displayed in header of the FxA settings panel. */
+"Settings.FxA.Title.v119" = "គណនី";
+
+/* This is the title for the setting that toggles Sync related notifications in the settings menu under the Notifications section. */
+"Settings.Notifications.SyncNotificationsTitle.v112" = "ធ្វើសមកាលកម្ម";
+
+/* In the settings menu, in the Privacy section, this is the title for Notifications customization section. */
+"Settings.Notifications.Title.v112" = "ការជូនដំណឹង";
+
+/* This is the title informing the user that they need to turn on notifications in iOS Settings. %@ is the app name (e.g. Firefox). */
+"Settings.Notifications.TurnOnNotificationsMessage.v112" = "ចូលទៅកាន់ការកំណត់ឧបករណ៍របស់អ្នក ដើម្បីបើកការជូនដំណឹងនៅក្នុង %@";
+
+/* This is the title informing the user that they need to turn on notifications in iOS Settings. */
+"Settings.Notifications.TurnOnNotificationsTitle.v112" = "បើកការជូនដំណឹង";
+
+/* Accessibility label for default search engine setting. */
+"Settings.Search.Accessibility.DefaultSearchEngine.v121" = "ម៉ាស៊ីនស្វែងរកលំនាំដើម";
+
+/* Navigation title for search page in the Settings menu. */
+"Settings.Search.PageTitle.v121" = "ស្វែងរក";
+
+/* Title for a link that explains what Mozilla means by Studies */
+"Settings.Studies.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* Title for a link that explains how Mozilla send technical and interaction data. */
+"Settings.TechnicalData.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* Terms of Use settings section title */
+"Settings.TermsOfUse.Title.v137" = "លក្ខខណ្ឌនៃការប្រើប្រាស់";
+

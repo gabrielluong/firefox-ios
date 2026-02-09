@@ -1,0 +1,12 @@
+/* Accessibility label for the share button in url bar */
+"TabLocation.Share.A11y.Label.v119" = "ចែករំលែក​ទំព័រ​នេះ";
+
+/* Large content title for the share button. This title is displayed when using accessible font sizes is enabled */
+"TabLocation.ShareButton.AccessibilityLabel.v122" = "ចែករំលែក";
+
+/* Large content title for the tabs button. %@ is the number of open tabs or an infinity symbol. This title is displayed when using accessible font sizes is enabled. */
+"TabsButton.Accessibility.LargeContentTitle.v122" = "បង្ហាញផ្ទាំង៖ %@";
+
+/* Large content title for the button shown in editing mode to remove this site from the top sites panel. */
+"TopSites.RemoveButton.LargeContentTitle.v122" = "លុបទំព័រចេញ";
+

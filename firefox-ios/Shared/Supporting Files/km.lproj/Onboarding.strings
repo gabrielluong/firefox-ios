@@ -1,0 +1,75 @@
+/* The title of the button on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. */
+"DefaultBrowserPopup.ButtonTitle.v114" = "ចូលទៅកាន់​ការកំណត់";
+
+/* The first label on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. The *text inside asterisks* denotes part of the string to bold, please leave the text inside the '*' so that it is bolded correctly. */
+"DefaultBrowserPopup.FirstLabel.v114" = "1. ចូលទៅកាន់ *ការកំណត់*";
+
+/* String used to describe the option to skip the customization cards in Firefox Onboarding screens and start browsing. */
+"Onboarding.Customization.Intro.Skip.Action.v123" = "ចាប់​ផ្ដើម​រុករក";
+
+/* String used to describe the title of the customization onboarding page in our Onboarding screens. %@ is the app name (e.g. Firefox). */
+"Onboarding.Customization.Intro.Title.v123" = "%@ ធ្វើឱ្យអ្នកស្ថិតក្នុងការគ្រប់គ្រង";
+
+/* String used to describe the option to save the user setting and continue to the next onboarding in Firefox Onboarding screens. */
+"Onboarding.Customization.Theme.Continue.Action.v123" = "រក្សាទុក និងបន្ត";
+
+/* On the theme customization onboarding card, the string used to describe the option to set the theme to dark theme from the available choices. */
+"Onboarding.Customization.Theme.Dark.Action.v123" = "ងងឹត";
+
+/* On the theme customization onboarding card, the string used to describe the option to set the theme to light theme from the available choices. */
+"Onboarding.Customization.Theme.Light.Action.v123" = "ភ្លឺ";
+
+/* String used to describe the option to skip the theme customization in Firefox Onboarding screens. */
+"Onboarding.Customization.Theme.Skip.Action.v123" = "រំលង";
+
+/* On the theme customization onboarding card, the string used to describe the option to set the theme to system theme from the available choices. */
+"Onboarding.Customization.Theme.System.Action.v123" = "ប្រព័ន្ធស្វ័យប្រវត្តិ";
+
+/* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the bottom of the screen. */
+"Onboarding.Customization.Toolbar.Bottom.Action.v123" = "ប៊ូតុង";
+
+/* String used to describe the option to save set preferences and leave onboarding to start browsing in the app. */
+"Onboarding.Customization.Toolbar.Continue.Action.v123" = "រក្សាទុក និងចាប់ផ្តើមរុករក";
+
+/* String used to describe the option to skip the toolbar customization in Firefox Onboarding screens and start browisg in the app. */
+"Onboarding.Customization.Toolbar.Skip.Action.v123" = "រំលង";
+
+/* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the top of the screen. */
+"Onboarding.Customization.Toolbar.Top.Action.v123" = "កំពូល";
+
+/* Describes an action on some of the Onboarding screen, including the wallpaper onboarding screen. This string will be on a button so user can skip that onboarding page. */
+"Onboarding.LaterAction.v115" = "រំលង";
+
+/* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
+"Onboarding.Modern.TermsOfService.PrivacyPreferences.LearnMore.v140" = "ស្វែងយល់​បន្ថែម";
+
+/* Title for the Terms of Use button link, in the Terms of Use screen for redirecting the user to the Terms of Use page. %@ is the app name (e.g. Firefox). */
+"Onboarding.Modern.TermsOfUse.TermsOfUseLink.v140" = "%@ លក្ខខណ្ឌនៃការប្រើប្រាស់។";
+
+/* Describes the action on the first onboarding page in our Onboarding screen. This string will be on a button so user can skip this onboarding card. */
+"Onboarding.Modern.Welcome.Skip.v140" = "មិន​មែន​ឥឡូវ";
+
+/* String used to describe the option to continue to ask for the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.Continue.Action.v114" = "បន្ត";
+
+/* String used to describe the option to skip the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.Skip.Action.v115" = "រំលង";
+
+/* String used to describe the title of the notification onboarding page in our Onboarding screens. %@ is the app name (e.g. Firefox). */
+"Onboarding.Notification.Title.v120" = "ការជូនដំណឹងជួយអ្នកឱ្យមានសុវត្ថិភាពជាងមុនជាមួយ %@";
+
+/* String used to describe the option to continue to ask for the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.TurnOnNotifications.Action.v114" = "បើកការជូនដំណឹង";
+
+/* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
+"Onboarding.Sync.SignIn.Action.v114" = "ចូល";
+
+/* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
+"Onboarding.Sync.Skip.Action.v114" = "រំលង";
+
+/* Title for the Manage button link, in the Terms of Service screen for redirecting the user to the Manage data collection preferences screen. */
+"Onboarding.TermsOfService.ManageLink.v135" = "គ្រប់គ្រង";
+
+/* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
+"Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v136" = "ស្វែងយល់​បន្ថែម";
+
