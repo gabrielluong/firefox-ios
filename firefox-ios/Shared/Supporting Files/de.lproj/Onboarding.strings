@@ -44,7 +44,7 @@
 "Onboarding.Customization.Theme.Skip.Action.v123" = "Überspringen";
 
 /* On the theme customization onboarding card, the string used to describe the option to set the theme to system theme from the available choices. */
-"Onboarding.Customization.Theme.System.Action.v123" = "Automatische Systemeinstellung";
+"Onboarding.Customization.Theme.System.Action.v123" = "System-Standard";
 
 /* String used to describe the title of the theme customization onboarding page in our Onboarding screens. */
 "Onboarding.Customization.Theme.Title.v123" = "Wählen Sie ein Theme";
@@ -62,7 +62,7 @@
 "Onboarding.Customization.Toolbar.Skip.Action.v123" = "Überspringen";
 
 /* String used to describe the title of the toolbar customization onboarding page in our Onboarding screens. */
-"Onboarding.Customization.Toolbar.Title.v123" = "Wählen Sie die Position für eine Symbolleiste";
+"Onboarding.Customization.Toolbar.Title.v123" = "Wählen Sie die Position für die Symbolleiste";
 
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the top of the screen. */
 "Onboarding.Customization.Toolbar.Top.Action.v123" = "Oben";
@@ -75,9 +75,6 @@
 
 /* Describes an action on some of the Onboarding screen, including the wallpaper onboarding screen. This string will be on a button so user can skip that onboarding page. */
 "Onboarding.LaterAction.v115" = "Überspringen";
-
-/* String used to describe the option to save the user setting and continue to the next onboarding in Firefox Onboarding screens. */
-"Onboarding.Modern.Customization.Theme.Continue.Action.v123" = "Weiter";
 
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the bottom of the screen. */
 "Onboarding.Modern.Customization.Toolbar.Bottom.Action.v140" = "Unten";
@@ -186,12 +183,6 @@
 "Onboarding.Sync.Title.v120" = "Verschlüsseln Sie Ihre Daten, wenn Sie geräteübergreifend arbeiten";
 
 /* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v135" = "Zustimmen und fortfahren";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v136" = "Zustimmen und Fortfahren";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
 "Onboarding.TermsOfService.AgreementButtonTitle.v140" = "Weiter";
 
 /* Title for the Manage button link, in the Terms of Service screen for redirecting the user to the Manage data collection preferences screen. */
@@ -205,9 +196,6 @@
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
 "Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Datenschutzhinweis.";
-
-/* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
-"Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v135" = "Weitere Informationen";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v136" = "Weitere Informationen";
@@ -232,9 +220,6 @@
 
 /* Agreement text for Terms of Service in the Terms of Service screen. %@ is the Terms of Service link button that redirect the user to the Terms of Service page. */
 "Onboarding.TermsOfService.TermsOfServiceAgreement.v135" = "Indem Sie fortfahren, stimmen Sie den %@ zu.";
-
-/* Title for the Terms of Service button link, in the Terms of Service screen for redirecting the user to the Terms of Service page. %@ is the app name (e.g. Firefox). */
-"Onboarding.TermsOfService.TermsOfServiceLink.v135" = "Nutzungsbedingungen von %@";
 
 /* Title for the Terms of Service screen in the onboarding process. %@ is the app name (e.g. Firefox). */
 "Onboarding.TermsOfService.Title.v135" = "Willkommen bei %@";
