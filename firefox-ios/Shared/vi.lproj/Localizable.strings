@@ -346,6 +346,9 @@
 /* When a user taps and holds on an item from the Recently Visited section, this label will appear indicating the option to remove that item. */
 "FirefoxHome.RecentHistory.Remove" = "Xóa";
 
+/* On each Story on the Firefox Homepage, this label appears and indicates the number of minutes to read an article. Minutes should be abbreviated due to space constraints. %d represents the number of minutes */
+"FirefoxHome.Stories.Minutes.v140" = "%d phút";
+
 /* Label showing how many pages there is in a search group. %d represents a number */
 "FirefoxHomepage.Common.PagesCount.v112" = "Trang: %d";
 
@@ -369,6 +372,9 @@
 
 /* This string will show under a shortcuts tile on the firefox home page, indicating that the tile is a sponsored tile. Space is limited, please keep as short as possible. */
 "FirefoxHomepage.Shortcuts.Sponsored.v100" = "Được tài trợ";
+
+/* This string will show under the description on pocket story, indicating that the story is sponsored. */
+"FirefoxHomepage.Stories.Sponsored.v140" = "Được tài trợ";
 
 /* Accessibility Label for the tab toolbar Forward button */
 "Forward" = "Tiến";
@@ -821,7 +827,7 @@
 "Menu.TrackingProtectionCrossSiteTrackers.Title" = "Trình theo dõi chéo trang web";
 
 /* The title that shows the number of cryptomining scripts blocked */
-"Menu.TrackingProtectionCryptominersBlocked.Title" = "Tiền điện tử";
+"Menu.TrackingProtectionCryptominersBlocked.Title" = "Trình đào tiền điện tử";
 
 /* Description of content trackers. */
 "Menu.TrackingProtectionDescription.ContentTrackers" = "Trang web có thể tải bên ngoài quảng cáo, video và nội dung khác có chứa trình theo dõi ẩn. Chặn điều này có thể làm cho các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.";
@@ -830,7 +836,7 @@
 "Menu.TrackingProtectionDescription.CrossSiteNew" = "Những cookie này theo bạn từ trang này sang trang khác để thu thập dữ liệu về những gì bạn làm trực tuyến. Chúng được đặt bởi các bên thứ ba như nhà quảng cáo và công ty phân tích.";
 
 /* Description of cryptominers. */
-"Menu.TrackingProtectionDescription.CryptominersNew" = "Tiền điện tử bí mật sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn.";
+"Menu.TrackingProtectionDescription.CryptominersNew" = "Trình đào tiền điện tử bí mật sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn.";
 
 /* Description of fingerprinters. */
 "Menu.TrackingProtectionDescription.Fingerprinters" = "Các cài đặt trên trình duyệt và máy tính của bạn là duy nhất. Dấu vân tay thu thập nhiều cài đặt duy nhất này để tạo hồ sơ về bạn, có thể được sử dụng để theo dõi bạn khi bạn duyệt.";
@@ -881,7 +887,7 @@
 "Oops! Firefox crashed" = "Oops! Firefox đã gặp sự cố";
 
 /* See http://mzl.la/1LXbDOL */
-"Open articles in Reader View by tapping the book icon when it appears in the title bar." = "Mở bài viết trong chế độ đọc sách bằng cách nhấn vào biểu tượng sách khi nó xuất hiện trên thanh tiêu đề.";
+"Open articles in Reader View by tapping the book icon when it appears in the title bar." = "Mở bài viết trong chế độ đọc bằng cách nhấn vào biểu tượng sách khi nó xuất hiện trên thanh tiêu đề.";
 
 /* See http://mzl.la/1G7uHo7 */
 "Open Settings" = "Mở Cài đặt";
@@ -929,7 +935,7 @@
 "read" = "đọc";
 
 /* Accessibility label for the Reader View button */
-"Reader View" = "Chế độ đọc sách";
+"Reader View" = "Chế độ đọc";
 
 /* Accessibility message e.g. spoken by VoiceOver when Reader Mode becomes available. */
 "ReaderMode.Available.VoiceOverAnnouncement" = "Chế độ đọc sách có sẵn";
@@ -977,7 +983,7 @@
 "Sans-serif" = "Sans-serif";
 
 /* See http://mzl.la/1LXbDOL */
-"Save pages to your Reading List by tapping the book plus icon in the Reader View controls." = "Nhấp vào biểu tượng cộng với sách trong công cụ chế độ đọc sách để lưu trang vào danh sách đọc.";
+"Save pages to your Reading List by tapping the book plus icon in the Reader View controls." = "Lưu các trang vào danh sách đọc của bạn bằng cách nhấn vào biểu tượng dấu cộng hình cuốn sách trong phần điều khiển Chế độ đọc.";
 
 /* OK button to dismiss the error prompt. */
 "ScanQRCode.Error.OK.Button" = "OK";
@@ -1697,7 +1703,7 @@
 "TabTrayButtons.Accessibility.ShowTabs.v106" = "Hiển thị thẻ";
 
 /* Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Firefox reader mode from another app. */
-"The page could not be displayed in Reader View." = "Trang này không thể hiển thị trong chế độ đọc sách.";
+"The page could not be displayed in Reader View." = "Trang này không thể hiển thị trong chế độ đọc.";
 
 /* Error message in the remote tabs panel */
 "There was a problem accessing tabs from your other devices. Try again in a few moments." = "Đã xảy ra sự cố khi truy cập các thẻ từ các thiết bị khác của bạn. Hãy thử một lần nữa trong chốc lát.";
