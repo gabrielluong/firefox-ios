@@ -1,0 +1,15 @@
+/* On error page, this is the text on a button that will try to load the page again. */
+"NativeErrorPage.ButtonLabel.v131" = "Поново учитај";
+
+/* On error page, this is the description for a generic error. %@ is the site url. */
+"NativeErrorPage.GenericError.Description.v134" = "Власник веб сајта %@ га није исправно подесио и није могуће успоставити безбедну везу.";
+
+/* On error page, this is the title for generic error. */
+"NativeErrorPage.GenericError.TitleLabel.v131" = "Будите опрезни. Нешто није у реду.";
+
+/* On error page, this is the description for no internet connection. */
+"NativeErrorPage.NoInternetConnection.Description.v131" = "Пробајте да се повежете преко другог уређаја. Проверите свој модем или усмеривач. Прекините и поново успоставите везу са Wi-Fi мрежом.";
+
+/* On error page, this is the title for no internet connection */
+"NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "Изгледа да постоји проблем са вашом интернет везом.";
+
