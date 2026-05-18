@@ -119,22 +119,13 @@
 "Settings.Browsing.Title.v137" = "การเรียกดู";
 
 /* Title for a link that explains how Mozilla send crash reports. */
-"Settings.CrashReports.Link.v135" = "เรียนรู้เพิ่มเติม";
-
-/* Title for a link that explains how Mozilla send crash reports. */
 "Settings.CrashReports.Link.v136" = "เรียนรู้เพิ่มเติม";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
-"Settings.CrashReports.Message.v135" = "รายงานข้อขัดข้องช่วยให้เราวินิจฉัยและแก้ไขปัญหาของเบราว์เซอร์ได้";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "สิ่งนี้ช่วยให้เราวินิจฉัยและแก้ไขปัญหาที่เกิดกับเบราว์เซอร์ได้";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Title.v135" = "ส่งรายงานข้อขัดข้องโดยอัตโนมัติ";
-
-/* Title for a link that explains how Mozilla send daily usage ping. */
-"Settings.DailyUsagePing.Link.v135" = "เรียนรู้เพิ่มเติม";
 
 /* Title for a link that explains how Mozilla send daily usage ping. */
 "Settings.DailyUsagePing.Link.v136" = "เรียนรู้เพิ่มเติม";
@@ -197,10 +188,10 @@
 "Settings.Search.PageTitle.v121" = "ค้นหา";
 
 /* Description for `Show in Private Sessions` toggle, located in `Suggestions from Search Engines` section in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Description.v125" = "แสดงคำแนะนำจากเครื่องมือค้นหาในวาระส่วนตัว";
+"Settings.Search.PrivateSession.Description.v125" = "แสดงคำแนะนำจากเครื่องมือค้นหาในเซสชันส่วนตัว";
 
 /* Label for toggle. Explains that in private browsing mode, the search suggestions which appears at the top of the search bar, can be toggled on or off. Located in `Suggestions from Search Engines` and `Address Bar - Firefox Suggest` sections in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Setting.v124" = "แสดงในวาระส่วนตัว";
+"Settings.Search.PrivateSession.Setting.v124" = "แสดงในเซสชันส่วนตัว";
 
 /* Label for the `show search suggestions` setting, in the Search Settings page. */
 "Settings.Search.ShowSuggestions.v121" = "แสดงข้อเสนอแนะการค้นหา";
@@ -212,7 +203,7 @@
 "Settings.Search.Suggest.LearnAboutSuggestions.v124" = "เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox Suggest";
 
 /* Description for `Show in Private Sessions` toggle, located in `Address Bar - Firefox Suggest` section in the Search page in the Settings menu. */
-"Settings.Search.Suggest.PrivateSession.Description.v125" = "แสดงคำแนะนำจาก Firefox Suggest ในวาระส่วนตัว";
+"Settings.Search.Suggest.PrivateSession.Description.v125" = "แสดงคำแนะนำจาก Firefox Suggest ในเซสชันส่วนตัว";
 
 /* In the Search page of the Settings menu, the title for the setting to enable search browsing history. */
 "Settings.Search.Suggest.SearchBrowsingHistory.Title.v124" = "ค้นหาประวัติการเรียกดู";
@@ -245,19 +236,10 @@
 "Settings.Studies.Title.v136" = "ติดตั้งและเรียกใช้การศึกษา";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
-"Settings.TechnicalData.Link.v135" = "เรียนรู้เพิ่มเติม";
-
-/* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "เรียนรู้เพิ่มเติม";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %1$@ is the company name (e.g. Mozilla), %2$@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v135" = "%1$@ มุ่งมั่นที่จะเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง %2$@ สำหรับทุกคน";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Settings.TechnicalData.Message.v136" = "ข้อมูลเกี่ยวกับอุปกรณ์ของคุณ การกำหนดค่าฮาร์ดแวร์ และการใช้งานของคุณช่วยปรับปรุงคุณลักษณะ ประสิทธิภาพ และเสถียรภาพของ %@";
-
-/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
-"Settings.TechnicalData.Title.v135" = "ข้อมูลทางเทคนิคและการโต้ตอบ";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "ส่งข้อมูลทางเทคนิคและการโต้ตอบ";
